@@ -150,7 +150,7 @@ toggle.addEventListener('change', function () {
                },
                "retina_detect": true
           })
-          kofiWidgetOverlay.draw('xditya', {
+          kofiWidgetOverlay.draw('GreatMirza', {
                'type': 'floating-chat',
                'floating-chat.donateButton.text': 'Support me',
                'floating-chat.donateButton.background-color': '#00b9fe',
@@ -270,7 +270,7 @@ toggle.addEventListener('change', function () {
                },
                "retina_detect": true
           })
-          kofiWidgetOverlay.draw('xditya', {
+          kofiWidgetOverlay.draw('GreatMirza', {
                'type': 'floating-chat',
                'floating-chat.donateButton.text': 'Support me',
                'floating-chat.donateButton.background-color': '#323842',
@@ -390,7 +390,7 @@ particlesJS("particles-js", {
      "retina_detect": true
 })
 
-kofiWidgetOverlay.draw('xditya', {
+kofiWidgetOverlay.draw('GreatMirza', {
                'type': 'floating-chat',
                'floating-chat.donateButton.text': 'Support me',
                'floating-chat.donateButton.background-color': '#323842',
